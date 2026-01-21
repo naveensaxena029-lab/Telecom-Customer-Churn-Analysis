@@ -47,28 +47,6 @@ The final dashboard is designed for **business leaders, product managers, and re
 
 ---
 
-## 📂 Folder Structure
-
-```
-Telecom-Customer-Churn-Analysis/
-├── Power_BI_Report.pbix                    # Power BI dashboard file
-├── Report_Export.pdf                       # Final exported report
-├── Assets/                                 # Raw data & metadata
-│   ├── telecom_customer_churn.csv
-│   ├── telecom_data_dictionary.csv
-│   └── telecom_zipcode_population.csv
-├── Screenshots/                            # Dashboard page previews
-│   ├── cover.jpg
-│   ├── overview.jpg
-│   ├── churn_demographics.jpg
-│   ├── churn_drivers.jpg
-│   ├── revenue_risk.jpg
-│   └── key_findings.jpg
-└── README.md # This file
-```
-
----
-
 ## 📦 Dataset Summary
 
 - **Source:** [IBM Cognos Analytics via Maven Analytics](https://maven-datasets.s3.amazonaws.com/Telecom+Customer+Churn/Telecom+Customer+Churn.zip)  
