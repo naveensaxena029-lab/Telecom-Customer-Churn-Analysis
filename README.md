@@ -81,9 +81,6 @@ Telecom-Customer-Churn-Analysis/
 
 ## 📸 Dashboard Preview
 
-### 🏠 Cover  
-![Cover](./Screenshots/cover.jpg)
-
 ### 📊 Executive Summary – Churn & Revenue Snapshot  
 ![Overview](./Screenshots/overview.jpg)
 
@@ -105,9 +102,7 @@ Telecom-Customer-Churn-Analysis/
 
 Interested in **customer analytics**, **churn prediction modeling**, or **telecom business intelligence**?
 
-📬 **LinkedIn:** [linkedin.com/in/pratiyushh/](https://www.linkedin.com/in/pratiyushh/)  
-🧭 **Portfolio:** [github.com/Pratiyushhh](https://github.com/Pratiyushhh)  
-💡 **Consulting:** Available for **advanced Power BI development** and **customer intelligence** projects
+📬 **LinkedIn:** [linkedin.com/in/Naveen/](https://www.linkedin.com/in/naveen-saxena-005aba212/)  
 
 ---
 
